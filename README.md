@@ -1,7 +1,7 @@
-## Olá, eu sou o Caio Oliveira! 👋
+### Olá, eu sou o Caio Oliveira! 👋
 <div align="center">
   <a href="https://github.com/caioinacio00">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioinacio00&layout=compact&include_all_commits=true&count_private=true&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioinacio00&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,8 +17,3 @@
   <a href="https://www.linkedin.com/in/caio-oliveira-655961164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:caioinacio00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/caio.oliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
-  
- 
-  
-</div>
