@@ -1,7 +1,6 @@
 ## Olá, eu sou o Caio Oliveira! 👋
 <div align="center">
   <a href="https://github.com/caioinacio00">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caioinacio00&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioinacio00&layout=compact&include_all_commits=true&count_private=true&theme=highcontrast"/>
 </div>
 <div style="display: inline_block" align="center"><br>
