@@ -5,9 +5,9 @@
   <img align="right" width="240" alt="gif-code" src="code.gif">  
 </div>
 
-<div align="center">
+<div>
   <a href="https://github.com/caio01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio01&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=caio01&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
 
   
