@@ -2,7 +2,7 @@
 #### Bem vindo ao meu perfil GitHub 👋
 
 <div>
-  <img align="right" width="300" height="225" alt="gif-code" src="code.gif">  
+  <img align="right" width="260" alt="gif-code" src="code2.gif">  
 </div>
 
 <div align="center">
