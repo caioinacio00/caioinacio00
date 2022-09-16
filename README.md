@@ -1,5 +1,5 @@
-### Olá, eu sou o Caio Oliveira! 
-#### Bem vindo ao meu perfil GitHub 👋
+### Hello, I'm Caio Oliveira! 
+#### Welcome to my profile on GitHub 👋
   
   ##
  
