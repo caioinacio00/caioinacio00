@@ -8,14 +8,7 @@
   <a href = "mailto:caioinacio00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/caio.oliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-
   ##
   
-
   <img align="center" width="600" alt="gif-code" src="code_1080p.gif">  
-</div>
-
- 
-  
-  ![Snake animation](https://github.com/caio01/caio01/blob/output/github-contribution-grid-snake.svg)
 </div>
